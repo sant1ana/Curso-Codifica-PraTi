@@ -1,0 +1,145 @@
+/*Essa regra define o comportamento de rolagem suave para o documento html*/
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    /*esta regra define a cor de fundo do corpo como #8EA7E9, a cor do texto como # 1D1919 e o alinhamento do texto como justificado. também define a largura para 85% do container e centraliza horizontalmente utilizando margin:auto*/
+    /*background cor de fundo*/
+    background-color: #8EA7E9;
+    /* cor do texto*/
+    color: #1D1919;
+    text-align: justify;
+    /*alinhamento e tamanho*/
+    width: 85%;
+    margin: auto;
+} 
+
+/*seções dos livros*/
+section {
+    /*essa regra define o preenchimento das seções dos livros. elas têm um preenchimento de 256px á esquerda e a direita e 64px de preenchimento superior e inferior*/
+    padding-left: 256px;
+    padding-right: 256px;
+    padding-bottom: 64px;
+    padding-top: 64px;
+}
+
+
+table {
+    /* essa regra define a largura das tabelas como 100%*/
+    width: 100%;
+}
+
+
+td {
+    /*essa regra define a cor de fundo das células da tabela como #576CBC. ela também define uma borda(contorno) sólido preto com 1px de largura e um borda radius de de 4px. o texto dentro das células é centralizado*/
+    background-color: #576CBC;
+    border: black solid 1px;
+    border-radius: 4px;
+    /*alinhamento do texto*/
+    text-align: center;
+}
+
+th {
+    /*essa regra define a mesma   border radius  de borda para os cabeçalhos da tabela(th) que as células da tabela. o texto dentro dos cabeçalhos é centralizado*/
+    border: black solid 1px;
+    border-radius: 4px;
+    text-align: center;
+}
+
+tr {
+    /*essa regra define a cor de fundo das linhas da tabela*/
+    background-color: #3E54AC;
+}
+
+
+/*titulos, texto e parágrafos*/
+p {
+    /*essa regra define o alinhamento do texto dos parágrafo como justificado e adiciona um recuo de 50px para a primeira linha de cada parágrafo*/
+    text-align: justify;
+    text-indent: 50px;
+}
+
+    /* essas regras centralizam o texto dos elementos de cabeçalho(h1, h2, h3) os elementos h3 também tem uma cor de texto #000 (preto)*/
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: #000;
+}
+
+h2 {
+    text-align: center;
+}
+
+/*links*/
+/* essas regras definem os estilos para os links(a) em diferentes estados*/
+
+/* a:link = especifica o estilo para links normais ( não visitado)*/
+a:link {
+    color:#116D6E;
+}
+/*a:visited = para links visitados*/
+a:visited {
+    color: #1D1919;
+}
+/*a:hover = para quando o cursor do mouse está sobre o link*/
+a:hover {
+    color: #2B4353;
+}
+/*a:active = para quando o link for clicado*/
+a:active {
+    color: #4E709D;
+}
+
+img {
+    /* esta regra define a largura das imagens para 300px e centraliza horizotalmente utilizando margin: auto, também adciona um radio de borda de 50px*/
+    width: 300px;
+    display: block;
+    margin: auto;
+    border-radius: 50px;
+}
+.bookTitle {
+    background-color: #E5E0FF;
+    color: brown;
+    text-align: center;
+}
+#sectionHP,
+#sectionRV,
+#sectionMRL {
+    background-color:#E5E0FF ;
+}
+
+#header {
+    background-color: #7286D3;
+    color: #FFF2F2;
+    padding: 20px;
+    margin-bottom: 0px;
+    
+
+}
+    
+#sumary {
+    background-color: #7286D3;
+    color: #FFF2F2;
+    padding: 20px;
+    margin-bottom: 50px;
+    border-radius: 0 0 50px 50px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#yourlibrary {
+    text-indent: 0px;
+    text-align: center;
+}
+footer {
+    background-color: #7286D3;
+    width: 100%;
+    text-align: center;
+    padding: 30px 0px;
+}
