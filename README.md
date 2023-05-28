@@ -46,4 +46,12 @@
 
 ## Links das atividades realizadas no curso:
 
+| Atividade | Link                                   |
+|---------|----------------------------------------|
+| Minha pagina de apresentação   | [Link tarefa 1](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/Minha-pagina-de-Apresentacao) |
+| Projeto Estante de Livros  | [Link tarefa 2](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/Projeto-Estante-de-Livros) |
+| Tarefa 3   | [Link da tarefa 3](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/atividade%2003) |
+
+
+
 
