@@ -10,7 +10,7 @@ Neste projeto, fiz com tutorial do professor uma estante de livros em HTML para 
 
 ## Imagem da página somente com HTML:
 
-![screencapture-file-C-Users-vanes-atividade-02-HTML-estante-html-2023-05-19-18_10_39](https://github.com/sant1ana/Projeto-Estante-de-Livros/assets/93404790/d72d52ef-4537-4d15-b86c-0b3392fdf0fd)
+![screencapture-file-C-Users-vanes-atividade-02-HTML-estante-html-2023-05-19-18_10_39](https://github.com/sant1ana/Curso-Codifica/assets/93404790/2358b7a8-0757-4f56-b827-d4b249db34b3)
 
 ## Próximos Passos:
 pretendo adicionar estilos com CSS para melhorar a aparência da página. 
@@ -23,7 +23,9 @@ pretendo adicionar estilos com CSS para melhorar a aparência da página.
 
 
 ## Imagem da página atualizada com o CSS aplicado:
-![screencapture-file-C-Users-vanes-Documents-estante-de-livros-Projeto-Estante-de-Livros-estante-html-2023-05-26-01_20_57](https://github.com/sant1ana/Projeto-Estante-de-Livros/assets/93404790/063545da-e511-4f17-9d8e-b9622f3eacfc)
+
+
+![screencapture-file-C-Users-vanes-Documents-estante-de-livros-Projeto-Estante-de-Livros-estante-html-2023-05-26-01_20_57](https://github.com/sant1ana/Curso-Codifica/assets/93404790/dd43420c-e625-48a6-a6bb-6d9e72587954)
 
 ## Experiência:
 
