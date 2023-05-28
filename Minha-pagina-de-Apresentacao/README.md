@@ -1,4 +1,3 @@
-# Curso Do Zero ao Primeiro site da Codifica em parceria com +praTi
 
 📌página básica de apresentação pessoal criada utilizando as tags em HTML aprendidas na aula <br><br>
 
