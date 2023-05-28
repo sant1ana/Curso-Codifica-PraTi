@@ -1,12 +1,10 @@
-# Curso Do Zero ao Primeiro site da Codifica em parceria com +praTi
 
-
- projeto-Estante-de-Livros
+  📚 Projeto Estante de Livros 📚
  -------------------------------------------------------
 
 ## Descrição
 
-Neste projeto, fiz com tutorial do professor uma estante de livros em HTML para exibir diversos livros e suas informações. Utilizei o Google Books como fonte para obter informações adicionais sobre cada livro.
+projeto realizado em aula com o professor para exibir diversos livros e suas informações. Utilizei o Google Books como fonte para obter informações adicionais sobre cada livro.
 
 ## Imagem da página somente com HTML:
 
@@ -22,14 +20,14 @@ pretendo adicionar estilos com CSS para melhorar a aparência da página.
 - Google Books (para obter informações adicionais sobre os livros) <br>
 
 
-## Imagem da página atualizada com o CSS aplicado:
+## Imagem da página atualizada com o CSS:
 
 
 ![screencapture-file-C-Users-vanes-Documents-estante-de-livros-Projeto-Estante-de-Livros-estante-html-2023-05-26-01_20_57](https://github.com/sant1ana/Curso-Codifica/assets/93404790/dd43420c-e625-48a6-a6bb-6d9e72587954)
 
 ## Experiência:
 
-Desenvolver a estante de livros em HTML e CSS foi uma experiência desafiadora. Utilizei as técnicas de estruturação e formatação de texto aprendidas nas aulas para criar um layout organizado e agradável visualmente. Além disso, com o tutorial do professor aprendi técnicas de formatação e estilização com CSS para melhorar a aparência  e o layout da página, tornando-a mais atrativa e fácil de navegar.
+Desenvolver a estante de livros em HTML e CSS foi uma experiência desafiadora. Pude  aprender e entender técnicas de estruturação e formatação aprendidas nas aulas para criar um layout organizado e agradável visualmente. com o tutorial do professor aprendi técnicas de formatação e estilização em CSS para melhorar a aparência  e o layout da página, tornando-a mais atrativa e fácil de navegar.
 
 ## Como Usar
 
