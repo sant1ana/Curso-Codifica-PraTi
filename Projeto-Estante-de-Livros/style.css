@@ -1,0 +1,136 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    /*background cor de fundo*/
+    background-color: #8EA7E9;
+
+    /*texto*/
+    color: #1D1919;
+    text-align: justify;
+
+    /*alinhamento e tamanho*/
+    width: 85%;
+    margin: auto;
+} 
+
+/*seções dos livros*/
+section {
+    padding-left: 256px;
+    padding-right: 256px;
+    padding-bottom: 64px;
+    padding-top: 64px;
+}
+
+
+table {
+    width: 100%;
+}
+
+/*borda no formato shorthand*/
+td {
+    background-color: #576CBC;
+    border: black solid 1px;
+    border-radius: 4px;
+    /*alinhamento do texto*/
+    text-align: center;
+}
+
+th {
+    border: black solid 1px;
+    border-radius: 4px;
+    text-align: center;
+}
+
+tr {
+    background-color: #3E54AC;
+}
+
+
+/*titulos, texto e parágrafos*/
+
+p {
+    text-align: justify;
+    text-indent: 50px;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: #000;
+}
+
+h2 {
+    text-align: center;
+}
+
+/*links*/
+a:link {
+    color:#116D6E;
+}
+
+a:visited {
+    color: #1D1919;
+}
+
+a:hover {
+    color: #2B4353;
+}
+
+a:active {
+    color: #4E709D;
+}
+
+img {
+    width: 300px;
+    display: block;
+    margin: auto;
+    border-radius: 50px;
+}
+.bookTitle {
+    background-color: #E5E0FF;
+    color: brown;
+    text-align: center;
+}
+#sectionHP,
+#sectionRV,
+#sectionMRL {
+    background-color:#E5E0FF ;
+}
+
+#header {
+    background-color: #7286D3;
+    color: #FFF2F2;
+    padding: 20px;
+    margin-bottom: 0px;
+    
+
+}
+    
+#sumary {
+    background-color: #7286D3;
+    color: #FFF2F2;
+    padding: 20px;
+    margin-bottom: 50px;
+    border-radius: 0 0 50px 50px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#yourlibrary {
+    text-indent: 0px;
+    text-align: center;
+}
+footer {
+    background-color: #7286D3;
+    width: 100%;
+    text-align: center;
+    padding: 30px 0px;
+}
