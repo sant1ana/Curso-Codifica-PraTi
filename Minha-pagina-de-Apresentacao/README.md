@@ -3,10 +3,10 @@
 📌página básica de apresentação pessoal criada utilizando as tags em HTML aprendidas na aula <br><br>
 
    • Nesta página de apresentação foi inserido  nome, formação, idade e hobby favorito.<br><br>
-   
-![Captura de tela 2023-05-17 190649](https://github.com/sant1ana/Minha-pagina-de-Apresentacao/assets/93404790/5f82445b-9df7-4b79-8ba3-7e04794db89d)<br><br>
 
-✅ Tags utilizadas:<br>
+![Captura de tela 2023-05-28 035446](https://github.com/sant1ana/Curso-Codifica/assets/93404790/409b2796-c05f-442d-8777-ef7d290e7e60) <br><br>
+
+✅ Tags tilizadas:<br>
 
    • Parágrafo `<p>`  `</p>`<br>
    • Quebra de linha `<br>`<br>
