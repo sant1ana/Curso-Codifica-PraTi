@@ -46,6 +46,8 @@
 
 ## Links das atividades realizadas no curso:
 
+- Aqui você encontrará o link de todas as ativiades realizada nesse curso que foram organizadas em pastas nesse repositórios.
+
 | Atividade | Link                                   |
 |---------|----------------------------------------|
 | Minha pagina de apresentação   | [Link tarefa 1](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/Minha-pagina-de-Apresentacao) |
