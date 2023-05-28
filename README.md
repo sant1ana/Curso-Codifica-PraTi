@@ -1,6 +1,6 @@
 # Programa Introdutório ao desenvolvimento Front-End
 --------------------------------------------------------------------
-- Repositório criado para atividades e projetos desenvolvido no curso <br> <br>
+- Repositório criado para atividades e projetos desenvolvidos no curso <br> <br>
 
 
 ![Captura de tela 2023-05-27 231347](https://github.com/sant1ana/Curso-Codifica/assets/93404790/977f377f-9098-478d-afb5-9b4f28cee317)
