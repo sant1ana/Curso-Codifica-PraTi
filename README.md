@@ -25,8 +25,8 @@
 - [x] 09 de Maio/23: 1ª aula e tarefa 1
 - [x] 16 de maio/23: 2ª aula e tarefa 2
 - [x] 23 de maio/23: 3ª aula e tarefa 3
-- [ ] 25 de maio/23: 4ª aula
-- [ ] 30 de maio/23: 5ª aula e tarefa 4
+- [x] 25 de maio/23: 4ª aula
+- [x] 30 de maio/23: 5ª aula e tarefa 4
 - [ ] 06 de junho/23: 6ª aula e tarefa 5
 - [ ] 13 de junho/23: 7ª aula e tarefa 6
 - [ ] 15 de junho/23: 8ª aula
@@ -50,9 +50,10 @@
 
 | Atividade | Link                                   |
 |---------|----------------------------------------|
-| Minha pagina de apresentação   | [Link tarefa 1](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/Minha-pagina-de-Apresentacao) |
-| Projeto Estante de Livros  | [Link tarefa 2](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/Projeto-Estante-de-Livros) |
-| Tarefa 3   | [Link da tarefa 3](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/atividade%2003) |
+| Minha pagina de apresentação   | [Link da tarefa 1](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/Minha-pagina-de-Apresentacao) |
+| Projeto Estante de Livros  | [Link da tarefa 2](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/Projeto-Estante-de-Livros) |
+| Tarefa 03   | [Link da tarefa 3](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/atividade%2003) |
+| Tarefa 04   | [Link da tarefa 4](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/atividade%2004) |
 
 
 
