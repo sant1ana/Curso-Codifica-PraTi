@@ -27,22 +27,22 @@
 - [x] 23 de maio/23: 3ª aula e tarefa 3
 - [x] 25 de maio/23: 4ª aula
 - [x] 30 de maio/23: 5ª aula e tarefa 4
-- [ ] 06 de junho/23: 6ª aula e tarefa 5
-- [ ] 13 de junho/23: 7ª aula e tarefa 6
-- [ ] 15 de junho/23: 8ª aula
-- [ ] 22 de junho/23: 9ª aula e tarefa 7
-- [ ] 26 de junho/23: 10ª aula
-- [ ] 04 de julho/23: 11ª aula tarefa 8
-- [ ] 06 de julho/23: 12ª aula
-- [ ] 11 de julho/23: 13ª aula e tarefa 9
+- [x] 06 de junho/23: 6ª aula e tarefa 5
+- [x] 13 de junho/23: 7ª aula e tarefa 6
+- [x] 15 de junho/23: 8ª aula
+- [ ] 20 de junho/23: 9ª aula e tarefa 7
+- [ ] 27 de junho/23: 10ª aula e tarefa 8
+- [ ] 29 de julho/23: 11ª aula tarefa 8
+- [ ] 04 de julho/23: 12ª aula e tarefa 9
+- [ ] 11 de julho/23: 13ª aula 
 - [ ] 13 de julho/23: 14ª aula
 - [ ] 18 de julho/23: Aula de reforço, dúvidas e revisão
 - [ ] 23 de julho/23: Data limite para entrega das atividades
-- [ ] 25 de julho/23: 15ª aula e tarefa 10
-- [ ] 27 de julho/23 16ª aula e tarefa 11
+- [ ] 25 de julho/23: 15ª aula e tarefa (opcional)
+- [ ] 27 de julho/23 16ª aula e tarefa (opcional)
 - [ ] 01 de agosto/23: 17º aula
 - [ ] 08 de agosto/23: 18ª aula
-- [ ] 15 de agosto/23:19ª aula
+- [ ] 15 de agosto/23:19ª aula - última aula
 
 ## Links das atividades realizadas no curso:
 
