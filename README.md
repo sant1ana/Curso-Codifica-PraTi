@@ -32,7 +32,7 @@
 - [x] 15 de junho/23: 8ª aula
 - [ ] 20 de junho/23: 9ª aula e tarefa 7
 - [ ] 27 de junho/23: 10ª aula e tarefa 8
-- [ ] 29 de julho/23: 11ª aula tarefa 8
+- [ ] 29 de julho/23: 11ª aula 
 - [ ] 04 de julho/23: 12ª aula e tarefa 9
 - [ ] 11 de julho/23: 13ª aula 
 - [ ] 13 de julho/23: 14ª aula
