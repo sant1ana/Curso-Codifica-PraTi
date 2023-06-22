@@ -30,7 +30,7 @@
 - [x] 06 de junho/23: 6ª aula e tarefa 5
 - [x] 13 de junho/23: 7ª aula e tarefa 6
 - [x] 15 de junho/23: 8ª aula
-- [ ] 20 de junho/23: 9ª aula e tarefa 7
+- [x] 20 de junho/23: 9ª aula e tarefa 7
 - [ ] 27 de junho/23: 10ª aula e tarefa 8
 - [ ] 29 de julho/23: 11ª aula 
 - [ ] 04 de julho/23: 12ª aula e tarefa 9
@@ -44,16 +44,17 @@
 - [ ] 08 de agosto/23: 18ª aula
 - [ ] 15 de agosto/23:19ª aula - última aula
 
-## Links dos projetos e atividades realizadas no curso:
+## Links das  atividades realizadas no curso:
 
-- Aqui você encontrará o link de todas as ativiades realizada nesse curso que foram organizadas em pastas nesse mesmo repositórios.
 
-| Atividade | Link                                   |
-|---------|----------------------------------------|
-| Projeto Minha pagina de apresentação   | [Link da tarefa 1](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/Minha-pagina-de-Apresentacao) |
-| Projeto Estante de Livros  | [Link da tarefa 2](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/Projeto-Estante-de-Livros) |
-| Tarefa 03   | [Link da tarefa 3](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/atividade%2003) |
-| Tarefa 04   | [Link da tarefa 4](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/atividade%2004) |
+| Atividade | Link |   Descrição                                |
+|---------|----------|------------------------------|
+| Tarefa 01   | [Link](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/Minha-pagina-de-Apresentacao) | Minha pagina de apresentação pessoal  |
+| tarefa 02  | [Link](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/Projeto-Estante-de-Livros) | Projeto Estante de Livros |
+| Tarefa 03   | [Link](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/atividade%2003) | Estilizando parágrafo  |
+| Tarefa 04   | [Link](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/atividade%2004) | Alterando a cor dos botões  |
+| Tarefa extra   | []() | Criando um novo botão utilizando um gradiente para sua cor de fundo  |
+Tarefa 05   | []() | Projeto Locadora de filmes 2000
 
 
 
