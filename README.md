@@ -50,7 +50,7 @@
 
 | Atividade | Link                                   |
 |---------|----------------------------------------|
-| Minha pagina de apresentação   | [Link da tarefa 1](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/Minha-pagina-de-Apresentacao) |
+| Projeto Minha pagina de apresentação   | [Link da tarefa 1](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/Minha-pagina-de-Apresentacao) |
 | Projeto Estante de Livros  | [Link da tarefa 2](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/Projeto-Estante-de-Livros) |
 | Tarefa 03   | [Link da tarefa 3](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/atividade%2003) |
 | Tarefa 04   | [Link da tarefa 4](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/atividade%2004) |
