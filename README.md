@@ -44,9 +44,9 @@
 - [ ] 08 de agosto/23: 18ª aula
 - [ ] 15 de agosto/23:19ª aula - última aula
 
-## Links das atividades realizadas no curso:
+## Links dos projetos e atividades realizadas no curso:
 
-- Aqui você encontrará o link de todas as ativiades realizada nesse curso que foram organizadas em pastas nesse repositórios.
+- Aqui você encontrará o link de todas as ativiades realizada nesse curso que foram organizadas em pastas nesse mesmo repositórios.
 
 | Atividade | Link                                   |
 |---------|----------------------------------------|
