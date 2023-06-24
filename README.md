@@ -53,8 +53,8 @@
 | Atividade 02   | [Link](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/Projeto-Estante-de-Livros) | Projeto Estante de Livros |
 | Atividade 03   | [Link](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/atividade%2003) | Estilizando parágrafo  |
 | Atividade 04   | [Link](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/atividade%2004) | Alterando a cor dos botões  |
-| Atividade extra| []() | Criando um novo botão utilizando um gradiente para sua cor de fundo  |
-| Atividade 05   | []() | Projeto Locadora de filmes 2000
+| Atividade extra| [Link](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/Atividade%20Extra) | Criando um novo botão e utilizando um gradiente para sua cor de fundo  |
+| Atividade 05   | [Link](https://github.com/sant1ana/Curso-Codifica-PraTi/tree/main/atividade%2005) | Projeto Locadora de filmes 2000
 
 
 
