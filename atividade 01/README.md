@@ -1,7 +1,7 @@
 
-📌página básica de apresentação pessoal criada utilizando as tags em HTML aprendidas na aula <br><br>
+# página básica de apresentação pessoal  
 
-   • Nesta página de apresentação foi inserido  nome, formação, idade e hobby favorito.<br><br>
+   • Nesta página de apresentação foi inserido  nome, formação, idade e hobby favorito. e foi utilizada tags básica do HTML<br><br>
 
 ![Captura de tela 2023-05-28 035446](https://github.com/sant1ana/Curso-Codifica/assets/93404790/409b2796-c05f-442d-8777-ef7d290e7e60) <br><br>
 
